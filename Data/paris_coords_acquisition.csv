@@ -1,0 +1,81 @@
+PostalCode,Borough,Neighborhood,Latitude,Longitude
+75001, Le Louvre,Saint-Germain-l'Auxerrois,48.8596955,2.3406333
+75001, Le Louvre,Les Halles,48.8621566,2.34479612821061
+75001, Le Louvre,Le Palais-Royal,48.8635847,2.33620422009387
+75001, Le Louvre,La Place-Vendôme,48.8673216,2.3294834
+75002, La Bourse,Gaillon,48.86913515,2.33290877033551
+75002, La Bourse,Vivienne,48.86885895,2.3393625582679
+75002, La Bourse,Le Mail,48.8680539,2.34459476094465
+75002, La Bourse,Bonne-Nouvelle,48.8706233,2.3487498
+75003, Le Temple,Les Arts-et-Métiers,48.8654622,2.35533
+75003, Le Temple,Les Enfants-Rouges,48.8630297,2.3612527
+75003, Le Temple,Les Archives,48.85957135,2.36257274359018
+75003, Le Temple,Saint-Avoye,48.8604285,2.3563687
+75004, L'Hôtel-de-Ville,Saint-Merri,48.85908295,2.35080427239326
+75004, L'Hôtel-de-Ville,Saint-Gervais,48.8556071,2.35838042966361
+75004, L'Hôtel-de-Ville,L'Arsenal,48.8540284,2.3650261
+75004, L'Hôtel-de-Ville,Notre-Dame,48.85293705,2.3500501225
+75005, Le Panthéon,Saint-Victor,48.84792605,2.35526904333333
+75005, Le Panthéon,Le Jardin-des-Plantes,48.8432224,2.35950895709484
+75005, Le Panthéon,Le Val-de-Grâce,48.84221255,2.34389037713263
+75005, Le Panthéon,La Sorbonne,48.84874155,2.34366179217617
+75006, Le Luxembourg,La Monnaie,48.85458085,2.34015439843934
+75006, Le Luxembourg,L'Odéon,48.8513830053604,2.33594239893942
+75006, Le Luxembourg,Notre-Dame-des-Champs,48.8452749,2.3286803
+75006, Le Luxembourg,Saint-Germain-des-Prés,48.853638,2.3344604
+75007, Le Palais-Bourbon,Saint-Thomas-d'Aquin,48.85492565,2.3253157441074
+75007, Le Palais-Bourbon,Les Invalides,48.8570374,2.3118779
+75007, Le Palais-Bourbon,L'École-Militaire,48.8499964,2.31134715151531
+75007, Le Palais-Bourbon,Le Gros-Caillou,48.85717205,2.3007125334758
+75008, L'Élysée,Les Champs-Élysées,48.8707573,2.3053312
+75008, L'Élysée,Le Faubourg-du-Roule,48.87360115,2.30761301337209
+75008, L'Élysée,La Madeleine,48.87100575,2.31928408254236
+75008, L'Élysée,L'Europe,48.8760477,2.3156587
+75009, L'Opéra,Saint-Georges,48.8768033,2.3372248
+75009, L'Opéra,La Chaussée-d'Antin,48.8744341,2.3326082
+75009, L'Opéra,Le Faubourg-Montmartre,48.8767743,2.3392691
+75009, L'Opéra,Rochechouart,48.8800798,2.34497685707448
+75010, L'Enclos-Saint-Laurent,Saint-Vincent-de-Paul,48.88006515,2.3567718233209
+75010, L'Enclos-Saint-Laurent,La Porte-Saint-Denis,48.8697447,2.3530045
+75010, L'Enclos-Saint-Laurent,La Porte-Saint-Martin,48.87203775,2.36162618615963
+75010, L'Enclos-Saint-Laurent,L'Hôpital-Saint-Louis,48.875139,2.36599805822586
+75011, Popincourt,La Folie-Méricourt,48.86737955,2.37342304122208
+75011, Popincourt,Saint-Ambroise,48.8606255,2.3751844
+75011, Popincourt,La Roquette,48.857313,2.38120519879735
+75011, Popincourt,Sainte-Marguerite,48.85234995,2.38589233107582
+75012, Reuilly,Le Bel-Air,48.8413372,2.4008936
+75012, Reuilly,Picpus,48.8450751,2.40108
+75012, Reuilly,Bercy,48.8352959,2.38536284617776
+75012, Reuilly,Les Quinze-Vingts,48.84681815,2.37465491376136
+75013, Les Gobelins,La Salpêtrière,48.8378168,2.3646777447119
+75013, Les Gobelins,La Gare,48.82789775,2.37287707056015
+75013, Les Gobelins,La Maison-Blanche,48.8226147,2.3587102
+75013, Les Gobelins,Croulebarbe,48.833974,2.34763417199232
+75014, L'Observatoire,Le Montparnasse,48.83767925,2.33242962153066
+75014, L'Observatoire,Parc Montsouris,48.8243777,2.335914
+75014, L'Observatoire,Le Petit-Montrouge,48.8269415,2.32623988408569
+75014, L'Observatoire,La Plaisance,48.8332087,2.3193905
+75015, Vaugirard,Saint-Lambert,48.8344438,2.29821564473087
+75015, Vaugirard,Necker,48.842282,2.31299984312478
+75015, Vaugirard,Grenelle,48.8465079,2.290703
+75015, Vaugirard,Javel,48.83914995,2.27897314805772
+75016, Passy,Auteuil,48.8477221,2.2667376
+75016, Passy,La Muette,48.8579754,2.274062
+75016, Passy,La Porte-Dauphine,48.8715453,2.27153475973707
+75016, Passy,Chaillot,48.86914905,2.29201456972865
+75017, Les Batignolles-Monceau,Les Ternes,48.8807219,2.2944263
+75017, Les Batignolles-Monceau,La Plaine-Monceau,48.8858135,2.30012411725372
+75017, Les Batignolles-Monceau,Batignolles,48.8892339,2.31216213496166
+75017, Les Batignolles-Monceau,Les Épinettes,48.8932062,2.3228373
+75018, La Butte-Montmartre,Les Grandes-Carrières,48.89207685,2.33351015257768
+75018, La Butte-Montmartre,Clignancourt,48.89201565,2.34594512793658
+75018, La Butte-Montmartre,La Goutte-d'Or,48.8868305,2.3531436
+75018, La Butte-Montmartre,La Chapelle,48.8844068,2.3603057
+75019, Les Buttes-Chaumont,La Villette,48.88623995,2.37488520709187
+75019, Les Buttes-Chaumont,Le Pont-de-Flandre,48.8947282,2.3823046
+75019, Les Buttes-Chaumont,Amérique,48.8824235,2.39402486858987
+75019, Les Buttes-Chaumont,Le Combat,48.87879625,2.37966915572606
+75020, Ménilmontant,Belleville,48.87123635,2.3867013571166
+75020, Ménilmontant,Saint-Fargeau,48.8714551,2.4043701
+75020, Ménilmontant,Le Père-Lachaise,48.8612168,2.39392926381064
+75020, Ménilmontant,Charonne,48.8562189,2.404894494376
